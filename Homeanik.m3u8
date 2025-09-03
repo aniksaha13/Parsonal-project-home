@@ -653,7 +653,7 @@ https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6626/index.m3u8
 http://tv.bdiptv.store/live/restreax/refstream/232.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",Sony Aath
-http://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment uk
 https://tiger-hub.vercel.app/SONY/EntertainmentUK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png" group-title="Kids",Sony Yay
