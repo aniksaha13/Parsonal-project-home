@@ -518,8 +518,8 @@ https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8
 https://tv.bongoflix.top/toffee/live.php?id=a40abb7586bc&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",Zee TV HD 📺 
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",SONY MAX HD VIP 📺 (Toffee)
-https://tv.bongoflix.top/toffee/live.php?id=a8b8b701d558&=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",SONY MAX HD VIP 📺 
+http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",SONY MAX VIP 📺 
 http://app.hughag.store/api/9bcb965282/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",SONY PIX HD VIP 📺 (Toffee)
