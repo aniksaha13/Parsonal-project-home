@@ -521,8 +521,8 @@ https://tv.bongoflix.top/toffee/live.php?id=e12a84713a40&=.m3u8
 http://app.hughag.store/api/ac7673685c/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",Animal Planet HD 📺 (Toffee)
 https://tv.bongoflix.top/toffee/live.php?id=f70ef199f41d&=.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",SONY BBC EARTH HD VIP 📺 (Toffee)
-https://tv.bongoflix.top/toffee/live.php?id=4947c242a562&=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",SONY BBC EARTH HD VIP 📺 
+http://app.hughag.store/api/3e9d231a84/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",Discovery HD 📺 
 http://app.hughag.store/api/bc508cf627/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery 📺 (Toffee)
