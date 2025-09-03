@@ -529,7 +529,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z6NWDLQK/download-5.jpg" group-title="Entertainment",Zee Bangla 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PZjdg6sL/images-5.jpg" group-title="Entertainment",Zee Bangla01 📡 (ENTERTAINMENT)
-#http://app.hughag.store/api/154d534216/playlist.m3u8
+http://app.hughag.store/api/154d534216/playlist.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzWVkn8K/image.jpg" group-title="Entertainment",1.COLORS BANGLA HD 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
@@ -604,8 +604,8 @@ https://tv.bongoflix.top/toffee/live.php?id=5c42f69f96db&=.m3u8
 https://tv.bongoflix.top/toffee/live.php?id=cd113761e022&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",SONY MAX 2 VIP 📺 (Toffee)
 https://tv.bongoflix.top/toffee/live.php?id=959476952605&=.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema VIP 📺 (Toffee)
-https://tv.bongoflix.top/toffee/live.php?id=3c1cc31a847f&=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema VIP 📺 
+http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD 📺 (Toffee)
 https://tv.bongoflix.top/toffee/live.php?id=d55d69345bae&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC HD 📺 (Toffee)
