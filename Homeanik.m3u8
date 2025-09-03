@@ -606,8 +606,8 @@ https://tv.bongoflix.top/toffee/live.php?id=cd113761e022&=.m3u8
 https://tv.bongoflix.top/toffee/live.php?id=959476952605&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema VIP 📺 
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD 📺 (Toffee)
-https://tv.bongoflix.top/toffee/live.php?id=d55d69345bae&=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD 📺 
+http://app.hughag.store/api/63785f090e/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC HD 📺 (Toffee)
 https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png",TLC 📺 (Toffee)
