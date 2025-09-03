@@ -630,10 +630,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6650/index.m3u8
 #EXTINF:-1 tvg-id="rongeen-tv" tvg-name="Rongeen TV" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/veawzl.png" tvg-chno="rongeen-tv" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sangeet-bangla" tvg-name="Sangeet Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" tvg-chno="sangeet-bangla" group-title="Music",Sangeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" tvg-chno="sangeet-bhojpuri" group-title="Music",Sangeet Bhojpuri
-https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" tvg-chno="zoom" group-title="Music",1.Zoom 🎵📺
 https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
@@ -645,37 +641,9 @@ https://cdn-4.pishow.tv/live/987/master.m3u8
 
 SONY LIV
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment
-https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bipvli.png" group-title="Entertainment",Sony SAB HD
-https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" group-title="Entertainment",Sony Pal 📺 (iptv)
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6626/index.m3u8
 http://tv.bdiptv.store/live/restreax/refstream/232.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment uk
-https://tiger-hub.vercel.app/SONY/EntertainmentUK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png" group-title="Kids",Sony Yay
-https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" group-title="Movies",Sony MAX HD
-https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" group-title="Movies",Sony MAX
-https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" group-title="Movies",Sony MAX 2
-https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctetuk.png" group-title="Movies",Sony WAH
-https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies",Sony PIX HD
-https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" group-title="Infotainment",Sony BBC Earth English 
-https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vavnvm.png" group-title="Sports",Sony Sports Ten 1
-https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vcbjdy.png" group-title="Sports",Sony Sports Ten 2
-https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" group-title="Sports",Sony Sports Ten 5
-https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
 
 
